@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.jm_container{
+    width: 1140px;
+    max-width: 98%;
+    margin: auto;
+}
+p{
+    color: #777777;
+}
+.jm-bg{
+    /* background: rgba(255, 255, 255, 0.30);
+    color: ; */
+}
+footer ul li{
+    margin-top: 18px;
+}
+footer ul li a:hover{
+    text-decoration: underline;
+}
